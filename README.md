@@ -1,7 +1,7 @@
 # CareerPrep AI: Disha AI
 
 ## Overview
-**CareerPrep AI** (also referred to as **Disha AI**) is an advanced, unified career recommendation platform designed to align academic profiles with current industry demands. Developed at **Vimal Jyothi Engineering College**, the system utilizes **XGBoost** and **Natural Language Processing (NLP)** to provide students and job seekers with personalized career paths, job matches, and educational course suggestions.
+**CareerPrep AI** **-** **Disha AI**) is an advanced, unified career recommendation platform designed to align academic profiles with current industry demands. Developed at **Vimal Jyothi Engineering College**, the system utilizes **XGBoost** and **Natural Language Processing (NLP)** to provide students and job seekers with personalized career paths, job matches, and educational course suggestions.
 
 ## Key Features
 * **Predictive Career Matching:** Uses a custom XGBoost-based machine learning model to analyze user skills, education, and experience for high-accuracy job and course predictions.
@@ -29,5 +29,4 @@
 
 ## Credits
 * **Project Team:** Denise Maria James, Jyothika J, Litty Flowery Xavier, and Arya P.
-* **Guidance:** Ms. Sarannya M, Assistant Professor, Dept. of ADS.# XGBoost-MODELS
-CareerPrep AI-Disha AI uses XGBoost and NLP to align profiles with industry needs. With 0.95 AUC, it offers resume extraction, mock interviews, and market insights. Built on Firebase and Android, it drives data-driven professional growth and skill readiness.
+* **Guidance:** Ms. Sarannya M, Assistant Professor, Dept. of ADS.
